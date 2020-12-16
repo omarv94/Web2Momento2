@@ -1,0 +1,24 @@
+body {
+    background-color: #757575;
+}
+.menu {
+    background-color: #004d40;
+    margin-bottom: 15px;
+}
+.imganimales {
+    height: 300px;
+    width: 690px;
+}
+.container {
+    display: flex;
+    justify-content:center;
+    background-image: url(https://www.pinturasangisa.com/1771-large_default/papel-pintado-alta-gama-carrara.jpg);
+}
+.form {
+    width: 100%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
